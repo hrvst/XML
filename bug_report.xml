@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report id="1">
+   <environment>
+      <OS>Windows 10 Pro</OS>
+      <browser>Google Chrome 107.0.5304.88 x64</browser>
+   </environment>
+   <precondition>Open site https://test-site.test</precondition>
+   <title>User cant use socialmedia link on start screen</title>
+   <STR>Click on Instagram icon</STR>
+   <expected_result>In new tab will opened instagram profile</expected_result>
+   <actual_result>Nothing happened</actual_result>
+</bug_report>
+  
+  
